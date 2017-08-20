@@ -1,0 +1,27 @@
+#screen {
+	position: relative;
+}
+
+#holder {
+	position: relative;
+	height: 540px;
+	width: 100%;	
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.card {
+	position: absolute;
+	height: 540px;
+	width: 320px;	
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+}
+
+.card .title {
+	font-size: 5rem;
+	color: white;
+	text-align: center;
+}
